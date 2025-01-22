@@ -1,4 +1,4 @@
 # my-first-repo
 its a  sample repository
 <br>
-author- yash bansal
+author- yash bansal vanshika
